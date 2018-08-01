@@ -3,4 +3,5 @@ Created a AR Dice app using the following:
 
 * ARKit
 * SceneKit Framework
-* Created at 3D object in Augmented Reality
+* Created at 3D object in Augmented Reality.
+* Shake Gesture added to roll the dice.
